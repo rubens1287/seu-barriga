@@ -1,9 +1,11 @@
-package br.com.etec.seu_barriga;
+package br.com.core;
 
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 
 public class Base {
 	
